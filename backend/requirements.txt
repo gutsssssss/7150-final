@@ -1,0 +1,9 @@
+# This file is used to install the required packages for the backend of the application.
+fastapi
+uvicorn
+torch
+transformers
+diffusers
+safetensors
+pillow
+python-multipart
